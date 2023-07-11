@@ -1,0 +1,7 @@
+#不让某些文件上传
+
+node_moudel
+
+#因为goods.txt已被上传，写了也不起作用
+goods.txt
+*.txt
